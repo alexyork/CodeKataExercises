@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{757F1608-DEB8-4DCF-BE8D-8CB29150C5ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenPinBowling", "TenPinBowling\TenPinBowling.csproj", "{C4B4E4FF-B461-4373-B3FD-8C6C70C2CEFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{757F1608-DEB8-4DCF-BE8D-8CB29150C5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{757F1608-DEB8-4DCF-BE8D-8CB29150C5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{757F1608-DEB8-4DCF-BE8D-8CB29150C5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B4E4FF-B461-4373-B3FD-8C6C70C2CEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B4E4FF-B461-4373-B3FD-8C6C70C2CEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B4E4FF-B461-4373-B3FD-8C6C70C2CEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B4E4FF-B461-4373-B3FD-8C6C70C2CEFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

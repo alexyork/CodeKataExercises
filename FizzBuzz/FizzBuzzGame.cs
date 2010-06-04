@@ -20,7 +20,7 @@ namespace FizzBuzz
             {
                 return "Fizz";
             }
-
+            
             return number.ToString();
         }
     }
