@@ -1,12 +1,10 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System;
 using NUnit.Framework;
 
 namespace FizzBuzz.Tests
 {
     [TestFixture]
-    public class FizzBuzzTests
+    public class FizzBuzzGameTests
     {
         private FizzBuzzGame game;
 

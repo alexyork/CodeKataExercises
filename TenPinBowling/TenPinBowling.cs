@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace TenPinBowling
 {
-    class TenPinBowling
+    public class TenPinBowling
     {
         private Dictionary<string, int> _scores;
 
@@ -14,7 +14,7 @@ namespace TenPinBowling
             _scores.Add(player1, 0);
             _scores.Add(player2, 0);
         }
-
+        
         public string GetScore()
         {
             return string.Format("{0}, {1}. {2}, {3}.",

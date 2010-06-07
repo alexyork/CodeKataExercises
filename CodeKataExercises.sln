@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenPinBowling", "TenPinBowling\TenPinBowling.csproj", "{C4B4E4FF-B461-4373-B3FD-8C6C70C2CEFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Tests", "FizzBuzz.Tests\FizzBuzz.Tests.csproj", "{0F3C3171-1B20-436F-AA07-5FB7F145447B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenPinBowling.Tests", "TenPinBowling.Tests\TenPinBowling.Tests.csproj", "{F3B8E0E4-CD2E-47C1-8222-5C7586DE725E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{C4B4E4FF-B461-4373-B3FD-8C6C70C2CEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4B4E4FF-B461-4373-B3FD-8C6C70C2CEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4B4E4FF-B461-4373-B3FD-8C6C70C2CEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3C3171-1B20-436F-AA07-5FB7F145447B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3C3171-1B20-436F-AA07-5FB7F145447B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3C3171-1B20-436F-AA07-5FB7F145447B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3C3171-1B20-436F-AA07-5FB7F145447B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B8E0E4-CD2E-47C1-8222-5C7586DE725E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B8E0E4-CD2E-47C1-8222-5C7586DE725E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B8E0E4-CD2E-47C1-8222-5C7586DE725E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B8E0E4-CD2E-47C1-8222-5C7586DE725E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
